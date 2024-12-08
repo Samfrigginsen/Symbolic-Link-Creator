@@ -9,7 +9,7 @@ A simple Python tool to create symbolic links easily and efficiently.
 
 1. Run the Executable that's inside the dist folder:  
    ```
-   symlink.py
+   symlink.exe
    ```
 2. Follow the prompts to specify the target and link location.
 
